@@ -1,0 +1,14 @@
+# Arquivos de compilação Python
+__pycache__/
+
+# Logs e arquivos temporários
+*.log
+*.swp
+
+# Arquivos de configuração
+*.ini
+*.conf
+
+# Ambientes virtuais
+venv/
+env/
